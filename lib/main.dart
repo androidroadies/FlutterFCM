@@ -18,7 +18,6 @@ class MyApp extends StatelessWidget {
       home: MyHomePage(title: 'Flutter FCM'),
     );
   }
-
 }
 
 class MyHomePage extends StatefulWidget {
